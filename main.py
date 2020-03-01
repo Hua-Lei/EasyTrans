@@ -25,8 +25,8 @@ def trans():
     if txt == '':
         pass
     else: 
-        appid = ''
-        secretKey = ''
+        appid = ''  #需要填写
+        secretKey = '' #需要填写
 
         httpClient = None
         myurl = '/api/trans/vip/translate'
