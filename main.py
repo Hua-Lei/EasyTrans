@@ -7,7 +7,7 @@ import json
 window = tk.Tk()
 window.title("EasyTrans")
 window.geometry("400x150")
-window.iconbitmap(".\\favtion.ico")
+window.iconbitmap(".\\f.ico")
 
 var = tk.StringVar()
 
